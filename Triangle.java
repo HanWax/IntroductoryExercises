@@ -2,11 +2,6 @@ import java.util.Formatter;
 
 public class Triangle {
 
-    public static void main(String[]args) {
-        Triangle t = new Triangle();
-        t.printNamedDiamond(3, "Hannah");
-        t.printDiamond(3);
-    }
 
     // Print one asterisk to the console.
 
